@@ -1,0 +1,5 @@
+# Emacs backup
+*~
+temp*
+__pycache__
+.DS_Store
