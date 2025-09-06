@@ -1,0 +1,60 @@
+/* bchrest.css  */
+body {
+font-family: sans-serif;
+font-size: 14pt;
+font-style: normal;
+font-weight: normal;
+color: #333333;
+background: white;
+}
+#ipage {
+    height: 900px;
+}
+#title {
+ border-left: 100px;
+ border-top: 10px;  
+}
+#pagenav {
+ position: fixed; 
+ /*left: 10px;  */
+ left: 10px;
+ top: 10px;  
+/*  width: 30px; height: 30px; */
+  background-color: #EBF4FD;
+}cd
+#servepdf {
+ position: absolute;
+ left: 10px;
+ width: 900px;
+ height: 700px;
+}
+#serveidx {
+ position: absolute;
+ left: 5 px;
+ top: 15 px;
+ width: 180px;
+ height: 700px;
+}
+span.nppage {
+  font-weight: bold;
+  font-size: 12px; /*24pt; */
+  /*line-height: 18pt;*/
+/*background-color: #DBE4ED;  */
+}
+
+a.nppage:link {
+/*	color: #FF0000; */
+        text-decoration: none;
+/*  background: #222222; */
+}
+a.nppage:visited {
+/*	color: #000033; */
+        text-decoration: none;
+        
+}
+a.nppage:hover {
+/*	background: #000033; */
+	color: #FF0000;
+        text-decoration: none;
+        cursor: pointer;
+}
