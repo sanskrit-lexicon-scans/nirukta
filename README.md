@@ -21,7 +21,7 @@ Also Preface pages i-lxxii
 
 example: https://sanskrit-lexicon-scans.github.io/nirukta/app0/?i
 
-#  UNFINISHED!
+
 ## app1 (nirukta) 
 Provide access to pages based on  (adhyāya 1-14,verse)
 
